@@ -6,4 +6,5 @@ cmake_minimum_required(VERSION 3.15)
 project(cmake-examples)
 
 add_subdirectory(loops)
+add_subdirectory(if)
 add_subdirectory(variables)
